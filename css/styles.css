@@ -1,0 +1,162 @@
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+
+}
+
+h1 {
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  color:#66BFBF;
+  line-height: 2;
+  font-family: 'Sacramento', cursive;
+}
+h2
+{
+  font-size: 2.5rem;
+  color:#66BFBF;
+  font-weight:normal;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 10px;
+}
+h3
+{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr
+{
+  border-style: dotted none none;
+    border-color: #EAF6F6;
+    border-width: 5px;
+    width: 5%;
+    margin: 100px auto;
+}
+.intro
+{
+  width: 30%;
+  margin: auto;
+}
+.contact-message
+{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.p1
+{
+  text-align: left;
+  line-height: 2;
+}
+.p2
+{
+  text-align: left;
+  line-height: 2;
+}
+.p4
+{
+  color: #EAF6F6;
+  line-height: 2;
+  margin: 0;
+}
+a
+{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover
+{
+  color: #EAF6F6;
+}
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.music-img
+{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.skill-row1
+{
+  margin: 100px auto;
+  width: 50%;
+ text-align:left;
+}
+.skill-row2
+{
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  margin: o;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+margin: 0;
+padding-top: 20px;
+margin-top: 20px;
+background-color: #66BFBF;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+span
+{
+  text-decoration: underline;
+}
+.top-cloud
+{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud
+{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.copyright
+{
+  color:#EAF6F6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
